@@ -14,7 +14,7 @@ def media(value : list):
         completo += x
         quantia += 1
 
-    return completo
+    return completo/quantia
 
 
 #Exemplo de execução
